@@ -70,7 +70,7 @@ int	ft_specifiers(char specifier, va_list args)
 		counter += ft_putchar('%');
 	return (counter);
 }
-//Simplier but more than 25 lines 
+//Simpler version - more than 25 lines 
 
 /*#include "ft_printf.h"
 
